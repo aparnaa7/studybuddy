@@ -8,7 +8,7 @@ Studyapp Features:
 1.Google Login (via Firebase Authentication)
 2.Notes Section – add and keep track of your study notes
 3.Homework Tracker – add tasks, mark them as done/undo
-4.Dark light Mode Toggle
+4.Dark light Mode Toggle button
 5.Gamification – badges for milestones + confetti when all homework is done
 6.Motivational Quotes shown each time you log in
 
